@@ -1,0 +1,45 @@
+/* your styles, here */
+@import url('https://fonts.googleapis.com/css?family=Dosis|Josefin+Slab');
+body{
+  font-family: 'Dosis';
+  background-color: #f6f6e7;
+}
+
+h1{
+  color: #046D8B;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+h2{
+  color: #618980;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+h3{
+  color: #618980;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+a{
+   color: #618980
+ }
+
+.center {
+  text-align: center;
+  width: 100%;
+}
+
+
+.new-article-form {
+  background-color: #f0f0d8;
+}
+
+.article-show {
+  text-align: center;
+}
+
+.button {
+  background-color: #5F9EA0;
+}
